@@ -13,6 +13,22 @@ Cette formation ma forcé à utiliser plein d'ide différent, Visual studio, Int
 Pour la MAJORITE des cours je devais utiliser docker et mettre en place un environnement adapté a chaque fois.
 Etant donné que mon ordinateur portable n'était pas assez puissant pour pouvoir faire tourné docker j'ai du utiliser mon ordinateur fixe a la maison et des ordinateurs fixes dans les salles de cours. il y a pourtant un probleme, nous avons les droits de pouvoir utiliser docker seulement sur les ordinateurs de la salle 103, j'ai donc du apprendre a constament versionné et sauvegarder mon code sur git afin de pouvoir le récupérer chez moi si je souhaité continuer.
 
+
+
+Lors du projet de SAE, j'ai réalisé le développement d'une application en équipe en utilisant Kotlin. À l'origine, l'application devait utiliser le framework TornadoFX, mais cela a changé en cours de route pour Compose Desktop. Le but de l'application est de stocker des données qui constituent un langage ubiquitaire de l'application, de parser tous les fichiers de l'application, et de récupérer des mots-clés. Cela vise à comparer les résultats et à vérifier si le code est en ordre.
+Je me suis principalement occupé de la partie backend, en mettant en place les requêtes de connexion vers la base de données et en créant le parser. J'ai dû lire de la documentation et coder de nombreuses fonctionnalités qui n'ont pas été conservées ou ont été remises en forme ultérieurement.
+
+optimisation du code grace aux cour dans la sae
+
+
+Lors de plein de mes projets en cours j'ai plus travailler dans une equipe informatique pour l'organisation et tout, j'ai eu l'opportunité grace à la SAE de pouvoir utiliser les compétences que j'ai obtenu,
+j'ai trav
+
+
+
+---------------------
+
+
 UE 5.1 Réaliser un développement d'application  
 
 
