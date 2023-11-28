@@ -7,11 +7,20 @@ Mon matériel personnel, utilisation des ordinateurs de l'iut
 Ma permis d'apprendre comment utiliser
 
 
-Cette formation ma donner plus d'expérience dans la réalisation d'un développement d'application 
-Pour la sae j'ai du apprendre à utiliser Intellij afin de pouvoir réaliser le développement de l'application en kotlin 
-Cette formation ma forcé à utiliser plein d'ide différent, Visual studio, Intellij, Eclipse, afin de pouvoir tester des projets dans differents langages.
-Pour la MAJORITE des cours je devais utiliser docker et mettre en place un environnement adapté a chaque fois.
-Etant donné que mon ordinateur portable n'était pas assez puissant pour pouvoir faire tourné docker j'ai du utiliser mon ordinateur fixe a la maison et des ordinateurs fixes dans les salles de cours. il y a pourtant un probleme, nous avons les droits de pouvoir utiliser docker seulement sur les ordinateurs de la salle 103, j'ai donc du apprendre a constament versionné et sauvegarder mon code sur git afin de pouvoir le récupérer chez moi si je souhaité continuer.
+Pour la réalisation de la SAÉ, j'ai dû acquérir des compétences dans l'utilisation d'IntelliJ pour le développement d'une application en Kotlin. Cette formation m'a exposé à divers environnements de développement, tels que Visual Studio, IntelliJ et Eclipse, nécessaires pour tester des projets dans plusieurs langages.
+
+La plupart des cours exigeaient l'utilisation de Docker, avec la mise en place d'environnements spécifiques à chaque projet. En raison de la limitation de la puissance de mon ordinateur portable pour exécuter Docker, j'ai dû recourir à mon ordinateur fixe à la maison et aux ordinateurs de la salle de cours. Cependant, l'accès à Docker était restreint aux ordinateurs de la salle 103, ce qui m'a obligé à adopter une approche de versionnement constant et à sauvegarder mon code sur Git. Cela me permettait de récupérer mon travail chez moi et de continuer le développement.
+
+
+Contrairement à l'année derniere j'ai utiliser docker dans essentielement tout mes projets cette année ce qui m'a permis de parfaire mes connaissances avec cette outils. J'ai aussis plus renouveler mes connaissances dans certain langages en les utilisants dans quelque projets. le projet de Sae m'a permis d'améliorer mes compétences social et de travail en équipe ainsi que la rédaction de rapport.
+
+J'ai parfait mes compétences de travail en équipe sur un projet informatique lors du projet de la SAE ce qui ma fait travailler dans une équipe de 4 personnes avec lesquelles j'ai fait des recherches et développer une application, cela ma donné plus d'experiences dans le travail en equipe, nous devions faire des rapports et s'organiser ensemble en utilisant des outils de travail collaboratif comme git et la suite office365 afin de partager et de travailler sur les meme documents.
+
+
+
+
+
+
 
 
 
@@ -23,6 +32,9 @@ optimisation du code grace aux cour dans la sae
 
 Lors de plein de mes projets en cours j'ai plus travailler dans une equipe informatique pour l'organisation et tout, j'ai eu l'opportunité grace à la SAE de pouvoir utiliser les compétences que j'ai obtenu,
 j'ai trav
+
+
+
 
 
 
