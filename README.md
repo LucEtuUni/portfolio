@@ -2,9 +2,7 @@
 Portfolio Luc
 
 Introduction
-Venant d'une autre formation je suis arrivé en 3eme année du but
-Mon matériel personnel, utilisation des ordinateurs de l'iut
-Ma permis d'apprendre comment utiliser
+Je m'appelle luc lagerige, par l'informatique et j'ai donc fais des études dans l'informatique, lors de mon bac j'ai obtenu des connaissances de bases en base de donnée et programmation, lors de mon bts j'ai élargi mon eventaille de conaissance , de langages de programmation, de base de donnée, c'st aussis lors de ces années que j'ai travaillé pour la premiere fois en équipe informatique. Lors de ma licence professionnel j'ai parfais quelque une de mes connaissances obtenu lors du bts et obtenu de nouvelle et continuer de parfaire mes compétences relationnels pour le travail en équipe.
 
 
 Pour la réalisation de la SAÉ, j'ai dû acquérir des compétences dans l'utilisation d'IntelliJ pour le développement d'une application en Kotlin. Cette formation m'a exposé à divers environnements de développement, tels que Visual Studio, IntelliJ et Eclipse, nécessaires pour tester des projets dans plusieurs langages.
