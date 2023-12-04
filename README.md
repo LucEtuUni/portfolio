@@ -1,7 +1,9 @@
 
 Portfolio Luc
 
-##Introduction
+# Introduction
+
+
 Je m'appelle luc lagerige, par l'informatique et j'ai donc fais des études dans l'informatique, lors de mon bac j'ai obtenu des connaissances de bases en base de donnée et programmation, lors de mon bts j'ai élargi mon eventaille de conaissance , de langages de programmation, de base de donnée, c'st aussis lors de ces années que j'ai travaillé pour la premiere fois en équipe informatique. Lors de ma licence professionnel j'ai parfais quelque une de mes connaissances obtenu lors du bts et obtenu de nouvelle et continuer de parfaire mes compétences relationnels pour le travail en équipe.
 
 
