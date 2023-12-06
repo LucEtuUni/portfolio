@@ -9,7 +9,9 @@ Poursuivant mon parcours académique, ma licence professionnelle m'a permis de p
 
 
 # Compétences
+Mes études mon permis d'obtenir des connaissances dans beaucoup de langages de programmations comme java, python, ect... des connaissances générales sur les manieres de développer et les bonnes pratiques,
 
+J'ai eu l'occasion d'améliorer mes compétences en relationnel grace a des projts de travail en euqipes
 
 
 # Expérience
