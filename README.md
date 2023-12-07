@@ -3,7 +3,7 @@ Portfolio Luc
 
 # Introduction
 
-Je me suis Luc Lagerige et je suis actuellement etudiant en 3eme année du but informatique à l'iut de limoges, ma passion pour l'informatique m'a conduit à suivre des études approfondies dans ce domaine.
+Je suis Luc Lagerige et je suis actuellement etudiant en 3eme année du but informatique à l'iut de limoges, ma passion pour l'informatique m'a conduit à suivre des études approfondies dans ce domaine.
 
 
 # Compétences
