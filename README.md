@@ -11,7 +11,7 @@ Au cours de mon baccalauréat, j'ai acquis des connaissances de base en base de 
 
 Poursuivant mon parcours académique, ma licence professionnelle m'a permis de perfectionner certaines compétences acquises lors du BTS et d'en acquérir de nouvelles. J'ai également continué à développer mes compétences relationnelles, essentielles pour collaborer efficacement au sein d'équipes de travail.
 
-Mes études mon permis d'obtenir des connaissances dans beaucoup de langages de programmations comme java, python, ect... des connaissances générales sur les manieres de développer et les bonnes pratiques.
+Mes études mon permis d'obtenir des connaissances dans beaucoup de langages de programmations comme java, python, ect... des connaissances générales sur les manieres de développer et les bonnes pratiques. Ces études m'on aussis permis de développer des compétences dans la création de rapport et documentation de code.
 
 
 # Expérience
